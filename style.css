@@ -1,0 +1,27 @@
+body{
+  background-color:  #f2f2f2;
+  font-family: Helvetica;
+  font-size : 30px;
+}
+
+canvas{
+  background-color: :#fff;
+  border-color: #000;
+  border-radius: 8px;
+  position: relative;
+  height: 75vh;
+}
+
+button {
+  font-weight: bold;
+  color: white;
+  font-family: Helvetica;
+  font-size: 20px;
+  margin-top: 220px;
+    margin-left: 20px;
+  line-height: 60px;
+  width: 150px;
+  background: #8e8e8e;
+
+  position: absolute;
+}
